@@ -2,7 +2,7 @@
 Repo de Práctica2-HTML LaunchX
 
 ## Pasteleria "Sabor a cielo" (Cliente Site)
-[La pasteleria](/LaPasteleria/index.html)
+[La pasteleria](/Pasteleria/index.html)
 
 Demo: [Sabor a cielo](https://saboracielo.netlify.app/)
 
