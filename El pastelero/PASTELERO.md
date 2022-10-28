@@ -1,7 +1,7 @@
 # Sabor a Cielo - OFFICE 
 
 Es la página de administración de la pastelería Sabor a Cielo.
-En esta s muestran:
+En esta se muestran:
   - Los pedidos realizados en la página cliente.
   - Las entregas a realizar.
   - El stock del local.
