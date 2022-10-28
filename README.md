@@ -1,5 +1,4 @@
-# Sabor a Cielo
-### Práctica2 - La Pastelería - LaunchX
+# ***"Sabor a Cielo"*** - Práctica2 - La Pastelería - LaunchX
 
 ## "Sabor a Cielo" (Sitio del cliente)
 
