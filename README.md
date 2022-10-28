@@ -1,12 +1,14 @@
-# LaPasteleria-2-LaunchX
-Repo de Práctica2-HTML LaunchX
+# Sabor a Cielo
+### Práctica2 - La Pastelería - LaunchX
 
-## Pasteleria "Sabor a cielo" (Cliente Site)
-[La pasteleria](/Pasteleria/PASTELERIA.md)
+## "Sabor a Cielo" (Sitio del cliente)
+
+- [Sabor a Cielo - Sitio del Cliente](/Pasteleria/PASTELERIA.md)
 
 Demo: [Sabor a Cielo](https://saboracielo.netlify.app/)
 
-## Pasteleria "Sabor a cielo" (Pastelero Site)
-[El Pastelero](./El%20pastelero.PASTELERO.md)
+## "Sabor a Cielo - OFFICE" (Sitio del administrador)
+
+- [Sabor a Cielo - OFFICE](./El%20pastelero.PASTELERO.md)
 
 Demo: [Sabor a Cielo - OFFICE](https://saboracielo-office.netlify.app/)
